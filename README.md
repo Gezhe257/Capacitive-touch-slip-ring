@@ -8,6 +8,8 @@
 
 本项目部分硬件和代码参考自https://github.com/AnalogDragon/TouchPad-Demo ，并在该项目基础上作了一定的修改。
 
+板子上电后在蜂鸣器响之前处于校准状态，请不要触摸。
+
 <img width="1323" height="927" alt="image" src="https://github.com/user-attachments/assets/a61eacde-a239-43cf-befc-39610f33f032" />
 
 
